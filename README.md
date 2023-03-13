@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Version
 
-Things you may want to cover:
+ruby '3.0.2'
 
-* Ruby version
+rails '6.0.3'
 
-* System dependencies
+* 起動方法
 
-* Configuration
+`$ git clone git@github.com:issei-yoshi/rails-docker.git`
 
-* Database creation
+`$ cd rails-docker` cloneしたディレクトリへ移動
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`$ docker-compose up`
