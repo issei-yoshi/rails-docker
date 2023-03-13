@@ -3,6 +3,7 @@
 * Version
 
 ruby '3.0.2'
+
 rails '6.0.3'
 
 * 起動方法
